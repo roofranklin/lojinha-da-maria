@@ -37,6 +37,22 @@
     margin-top:16px;
 }
 
+#menu ul {
+    display: flex;
+    justify-content: end;
+    padding-top: 48px;
+}
+
+#menu ul li {
+    padding-left: 36px;
+}
+
+#menu ul li a {
+    color: #ffffff;
+    height: 24px;
+    padding-bottom: 4px;
+}
+
  #produtos h2 {
     font-family: 'Merriweather', serif;
     margin-top: 40px;
@@ -82,6 +98,13 @@
     background-color: #BA67C8;
     color: white;
     padding: 15px;
+}
+
+.botao:hover {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #5D3364;
+    transition: background-color 1s;
 }
 
 #quem-somos img {
