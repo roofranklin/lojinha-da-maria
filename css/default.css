@@ -37,7 +37,7 @@
     margin-top:16px;
 }
 
-#produtos h2 {
+ #produtos h2 {
     font-family: 'Merriweather', serif;
     margin-top: 40px;
     margin-bottom: 15px;
@@ -82,4 +82,56 @@
     background-color: #BA67C8;
     color: white;
     padding: 15px;
+}
+
+#quem-somos img {
+    width: 100%;
+}
+
+#quem-somos .texto {
+    padding-left: 40px;
+}
+
+#quem-somos h2 {
+    font-family: 'Merriweather', serif;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    font-size: 24px;
+    color: #3C4E58;
+}
+
+#quem-somos a {
+    font-family: 'Merriweather', serif;
+    margin-top: 20px;
+    background-color: #BA67C8;
+    color: white;
+}
+
+#rodape {
+    margin-top: 40px;
+    padding-top: 40px;
+    padding-bottom: 90px;
+    background-color: #5D3364;
+    color: #ffffff;
+}
+
+#rodape h2 {
+    font-family: 'Merriweather', serif;
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #ffffff;
+}
+
+#rodape li, #rodape p {
+    color: #ffffff;
+    line-height: 1.75em;
+}
+
+#rodape a {
+    color: #F1E1F4;
+}
+
+#rodape button {
+    color: #ffffff;
+    background-color: #BA67C8;
 }
